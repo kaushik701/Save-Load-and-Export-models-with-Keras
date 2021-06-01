@@ -1,0 +1,6 @@
+/.idea
+/.ipynb_checkpoints
+/models
+/model_name
+/tmp
+/weights
